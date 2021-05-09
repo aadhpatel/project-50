@@ -1,0 +1,19 @@
+.menu{
+    background-color: darksalmon;
+    display: flex;
+    justify-content:space-between;
+}
+
+.grid img{
+    border: 2px solid blueviolet;
+    border-radius: 50px;
+    
+}
+.origami {
+
+    border-radius: 20px;
+    background-color: darksalmon;
+
+    width: 310px;
+    font-family: fantasy;
+}
